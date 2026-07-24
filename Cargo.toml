@@ -1,0 +1,3 @@
+[workspace]
+members = ["wisp-protocol", "browser-engine", "wisp-browser", "site-tools", "search-engine"]
+resolver = "2"
