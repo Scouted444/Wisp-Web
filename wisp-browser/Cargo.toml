@@ -1,0 +1,10 @@
+[package]
+name = "wisp_browser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+browser_engine = { path = "../browser-engine" }
+wisp_protocol = { path = "../wisp-protocol" }
+winit = "0.28"
+softbuffer = "0.3"

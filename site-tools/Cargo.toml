@@ -1,0 +1,7 @@
+[package]
+name = "wisp_site"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wisp_protocol = { path = "../wisp-protocol" }
