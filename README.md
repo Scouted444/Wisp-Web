@@ -1,8 +1,6 @@
 # Wisp Web
 
-A small alternative web ecosystem, built from scratch, inspired by the shape
-of Gurted (protocol + browser + DNS + search) and by hand-rolled browser
-engines like Robinson/FaceDev's browser videos. Everything here — the
+A small alternative web ecosystem, built from scratch. Everything here — the
 protocol, the TLS handshake glue, the HTML/CSS parser, the layout engine,
 the rasterizer, the search index — is original code in this repo, not a
 wrapper around an existing browser engine or search library.
