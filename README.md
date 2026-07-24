@@ -1,4 +1,4 @@
-# wisp-web
+# Wisp Web
 
 A small alternative web ecosystem, built from scratch, inspired by the shape
 of Gurted (protocol + browser + DNS + search) and by hand-rolled browser
